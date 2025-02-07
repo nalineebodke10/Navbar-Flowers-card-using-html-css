@@ -5,11 +5,13 @@ body {
 
 .navbar {
     height: 60px;
+    width: 100%;
     padding: 5px;
     background-color: rgb(102, 4, 58);
     color: #ffe1f4;
     display: flex;
     align-content: center;
+    position: fixed;
 }
 
 .brand {
